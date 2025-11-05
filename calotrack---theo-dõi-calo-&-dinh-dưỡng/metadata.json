@@ -1,0 +1,5 @@
+{
+  "name": "CaloTrack - Theo dõi Calo & Dinh dưỡng",
+  "description": "Một ứng dụng thông minh giúp bạn theo dõi lượng calo và thành phần dinh dưỡng (protein, carbs, fat) từ các bữa ăn hàng ngày. Chỉ cần mô tả món ăn, AI sẽ phân tích và ghi lại giúp bạn. Dữ liệu có thể được tự động cập nhật vào Google Sheet của bạn.",
+  "requestFramePermissions": []
+}
